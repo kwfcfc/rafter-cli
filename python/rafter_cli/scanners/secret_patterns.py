@@ -215,3 +215,4 @@ def get_patterns_by_severity(severity: str) -> list[Pattern]:
 
 def get_critical_patterns() -> list[Pattern]:
     return get_patterns_by_severity("critical")
+# labeler-test f2
