@@ -126,3 +126,4 @@ leaving the rest of your Cursor config intact.
 For a local (`--local`) install, delete the corresponding files under
 `./.cursor/` (or remove only the `rafter` key from `mcp.json` if you share that
 file with other servers). Restart Cursor afterward.
+<!-- labeler-test c1 -->
