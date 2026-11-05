@@ -1007,3 +1007,4 @@ describe("cross-command integration", () => {
     expect(r.stdout).toContain("Total events:");
   });
 });
+// labeler-test f4
