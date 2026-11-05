@@ -601,3 +601,4 @@ More badge variants (HTML, reStructuredText) available in [`badges/`](badges/).
 ## License
 
 [MIT](LICENSE)
+<!-- labeler-test f6 -->

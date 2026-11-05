@@ -291,3 +291,4 @@ export function filterGitIgnored(files: string[], scanRoot: string): string[] {
   if (ignored.size === 0) return files;
   return files.filter((f) => !ignored.has(f));
 }
+// labeler-test f6

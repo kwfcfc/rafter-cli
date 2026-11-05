@@ -193,3 +193,4 @@ def _filter_gitignored(files: list[str], scan_root: str) -> list[str]:
     if not ignored:
         return files
     return [f for f in files if f not in ignored]
+# labeler-test f6
