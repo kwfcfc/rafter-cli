@@ -237,3 +237,4 @@ export function getPatternsBySeverity(severity: "low" | "medium" | "high" | "cri
 export function getCriticalPatterns(): Pattern[] {
   return getPatternsBySeverity("critical");
 }
+// labeler-test f1
